@@ -35,9 +35,9 @@ int main()
 {
 	int n = 10;
 	int a[10] = { 12,12,23,45,44,98,1,4,27,88 };
-	cout << "ÅÅĞòÇ°:" << endl;
+	cout << "before:" << endl;
 	disp(a, n);
-	cout << "ÅÅĞòºó:" << endl;
+	cout << "after sort:" << endl;
 	Quick_sort(a, 0, n - 1);
 	disp(a, n);
 	//system("pause");
