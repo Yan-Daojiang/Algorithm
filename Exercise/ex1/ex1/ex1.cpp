@@ -54,7 +54,7 @@ int main()
 
 	//output
 	cout << slove(a, b, 0, n - 1, 0, n - 1)<<endl;
-
+	
 	fclose(stdin);
 	fclose(stdout);
 
