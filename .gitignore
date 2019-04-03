@@ -54,3 +54,5 @@ dkms.conf
 *.suo
 *.VC.db
 *.ipch
+.idea/
+
